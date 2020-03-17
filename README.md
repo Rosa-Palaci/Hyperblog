@@ -14,4 +14,5 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/clases/git
 * Disponible para todas las edades
 * Creado por Rosa Palaci
 * Es mi primer cheerry-pick
+* Me hace feliz casi terminar el curso
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**.](https://platzi.com/ "a ver el curso.")
